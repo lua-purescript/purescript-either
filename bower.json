@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/purescript/purescript-either.git"
+    "url": "git://github.com/lua-purescript/purescript-either.git"
   },
   "ignore": [
     "**/.*",
